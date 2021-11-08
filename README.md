@@ -1,6 +1,6 @@
 # svelteKit-example-app
 
-A demo app to display user profiles, built with SvelteKit.
+A test app to display cam models profiles, built with SvelteKit.
 
 ## Requirements
 
