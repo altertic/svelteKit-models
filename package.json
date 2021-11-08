@@ -1,10 +1,10 @@
 {
-  "name": "sveltekit-example-app",
+  "name": "svelteKit-models",
   "version": "0.0.1",
   "scripts": {
-    "dev": "svelte-kit dev",
-    "build": "svelte-kit build",
-    "start": "svelte-kit start"
+    "dev": "svelteKit-models dev",
+    "build": "svelteKit-models build",
+    "start": "svelteKit-models start"
   },
   "devDependencies": {
     "@sveltejs/adapter-node": "next",
